@@ -13,8 +13,8 @@ document.querySelector('.menu-btn')?.addEventListener('click',()=>{
 });
 
 
-const EMAILJS_PUBLIC_KEY = "fvR1-RcF-NA1DPhiV";
-const EMAILJS_SERVICE_ID = "service_sco8oi3";
+const EMAILJS_PUBLIC_KEY = "ruqZ-HiGDJYQNiOVO";
+const EMAILJS_SERVICE_ID = "service_z5vv14w";
 const EMAILJS_TEMPLATE_ID = "template_xvqhxjb";
 
 emailjs.init({
