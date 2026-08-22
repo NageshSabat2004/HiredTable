@@ -1191,3 +1191,7 @@ footer small {
 .company-card {
   display: none;
 }
+aside{
+  width: 100%;
+}
+}
