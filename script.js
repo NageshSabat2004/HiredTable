@@ -15,7 +15,7 @@ document.querySelector('.menu-btn')?.addEventListener('click',()=>{
 
 const EMAILJS_PUBLIC_KEY = "ruqZ-HiGDJYQNiOVO";
 const EMAILJS_SERVICE_ID = "service_z5vv14w";
-const EMAILJS_TEMPLATE_ID = "template_xvqhxjb";
+const EMAILJS_TEMPLATE_ID = "template_eq5y3wg";
 
 emailjs.init({
   publicKey: EMAILJS_PUBLIC_KEY
