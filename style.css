@@ -58,8 +58,6 @@ a {
   justify-content: center;
   width: 31px;
   height: 31px;
-  border-radius: 9px;
-  background: var(--green);
   color: white;
   font: 800 15px Manrope;
   overflow: hidden;
