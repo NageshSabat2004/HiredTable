@@ -63,7 +63,7 @@ a {
   overflow: hidden;
 }
 .brand-mark img {
-  height: 100%;
+  width: 100%;
 }
 .nav-links {
   display: flex;
