@@ -65,7 +65,7 @@ a {
   overflow: hidden;
 }
 .brand-mark img {
-  height: 50px;
+  height: 100%;
 }
 .nav-links {
   display: flex;
