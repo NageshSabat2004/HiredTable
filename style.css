@@ -896,7 +896,7 @@ footer small {
   .steps,
   .role-grid,
   .feature-grid {
-    grid-template-columns: 0fr;
+    grid-template-columns: 1fr;
   }
   .step {
     border-right: 0;
@@ -1140,9 +1140,11 @@ footer small {
   }
 }
 @media (max-width: 600px) {
-  .score-grid,
   .feature-grid {
     grid-template-columns: 1fr;
+  }
+  .score-grid {
+    grid-template-columns: 0fr;
   }
   .company-stats {
     grid-template-columns: repeat(2, 1fr);
