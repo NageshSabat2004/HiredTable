@@ -896,7 +896,7 @@ footer small {
   .steps,
   .role-grid,
   .feature-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 0fr;
   }
   .step {
     border-right: 0;
