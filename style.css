@@ -1185,3 +1185,7 @@ footer small {
   background: #c9e86a;
   color: #17231f;
 }
+
+.company-card {
+  display: none;
+}
