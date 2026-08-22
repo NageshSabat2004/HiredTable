@@ -1144,7 +1144,7 @@ footer small {
     grid-template-columns: 1fr;
   }
   .score-grid {
-    grid-template-columns: 0fr;
+    grid-template-columns: ;
   }
   .company-stats {
     grid-template-columns: repeat(2, 1fr);
